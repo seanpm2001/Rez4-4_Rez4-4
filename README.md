@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, saya Reza 💙</h1>
+<h1 align="center">Hai 👋, Saya Reza Lahir 2005 🎉</h1>
 <h3 align="center">Pengembang frontend yang bersemangat dari indonesia</h3>
 
 - 🎀 Saat ini saya sedang mengerjakannya **💬**
