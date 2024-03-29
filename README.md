@@ -13,6 +13,11 @@
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
 
+## 📈 GitHub Stats
+[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
+
+Let's code something amazing together! 💻✨
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/instagram.com.reza.205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com.reza.205" height="30" width="40" /></a>
