@@ -51,7 +51,6 @@
 
 ## 📈 GitHub Stats
 
-<!-- blog start -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatahrnmods&show_icons=true&theme=react-dark)<br>
   </a>
 </p>
