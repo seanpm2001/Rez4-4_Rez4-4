@@ -57,7 +57,7 @@
   </a>
 </p>
 <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=🚀Rez4-4&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="7oSkaaa" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rez4-4&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="7oSkaaa" height="192px"/>
   <br/>
 
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
