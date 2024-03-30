@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats
 <!-- blog start -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatahrnmods&theme=react-dark" alt="fatahrnmods" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rez4-4&theme=react-dark" alt="Rez4-4" /></p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatahrnmods&show_icons=true&theme=react-dark)<br>
   </a>
