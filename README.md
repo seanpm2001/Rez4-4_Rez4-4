@@ -13,6 +13,8 @@
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
 
+- <a href="https://github.com/Rez4-4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
 - <p align='center'><a href="https://github.com/Rez4-4"><img height="200" src="https://avatars.githubusercontent.com/u/148963421?v=4"></a>&nbsp;&nbsp;</p>
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
