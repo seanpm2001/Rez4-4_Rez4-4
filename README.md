@@ -51,6 +51,9 @@
 
 ## 📈 GitHub Stats
 
+<!-- blog start -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rez4-4&theme=react-dark" alt="Rez4-4" /></p>
+
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
 
 Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
