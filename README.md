@@ -13,7 +13,7 @@
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
 
-- <p align='center'><a href="https://github.com/Rez4-4"><img height="200" src="https://avatars.githubusercontent.com/u/32604979?v=4"></a>&nbsp;&nbsp;</p>
+- <p align='center'><a href="https://github.com/Rez4-4"><img height="200" src="https://giphy.com/gifs/mio-jt7bAtEijhurm"></a>&nbsp;&nbsp;</p>
 
 <h1 align="center"><b>Hi there</b><img src="https://giphy.com/gifs/mio-jt7bAtEijhurm" width="35"></h1>
 
