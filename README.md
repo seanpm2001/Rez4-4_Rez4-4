@@ -51,13 +51,6 @@
 
 ## 📈 GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatahrnmods&show_icons=true&theme=react-dark)<br>
-  </a>
-</p>
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rez4-4&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="7oSkaaa" height="192px"/>
-  <br/>
-
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
 
 Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
