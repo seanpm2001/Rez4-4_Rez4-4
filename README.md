@@ -38,7 +38,7 @@
 
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
-- Waktu kenangan pikiran,
+- Waktu Kenangan pikiran,
 - Online Server.
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -50,7 +50,7 @@
 ## 📈 GitHub Stats
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
 
-Let's code something amazing together! 💻✨
+Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
