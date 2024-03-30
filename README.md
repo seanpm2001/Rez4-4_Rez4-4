@@ -15,7 +15,7 @@
 
 - <p align='center'><a href="https://github.com/Rez4-4"><img height="200" src="https://giphy.com/gifs/mio-jt7bAtEijhurm"></a>&nbsp;&nbsp;</p>
 
-<h1 align="center"><b>Hi there</b><img src="https://giphy.com/gifs/mio-jt7bAtEijhurm" width="35"></h1>
+<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I'm <b>Tobz</b> (2005 hari aku lahir) ! 🎉</h3>
 
