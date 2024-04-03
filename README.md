@@ -9,8 +9,6 @@
 
 - 💬 Tanyakan padaku tentang **Projek yang saya Suka**
 
-- <img align="right" alt="My Profile" src="https://telegra.ph/file/526afb7ea6bfe72c36fe8.jpg" width="190" />
-
 - 💌 Bagaimana cara menghubungi saya Email **rezabaikrez@gmail.com**
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
@@ -57,7 +55,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rez4-4&theme=react-dark" alt="Rez4-4" /></p>
 
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
-
+<img align="right" alt="My Profile" src="https://telegra.ph/file/969f18f2cfd092ceac8f1.jpg" width="190" />
 Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 
 <h3 align="left">Connect with me:</h3>
