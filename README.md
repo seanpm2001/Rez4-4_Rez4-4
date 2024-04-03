@@ -9,6 +9,8 @@
 
 - 💬 Tanyakan padaku tentang **Projek yang saya Suka**
 
+- <img align="right" alt="My Profile" src="https://telegra.ph/file/526afb7ea6bfe72c36fe8.jpg" width="190" />
+
 - 💌 Bagaimana cara menghubungi saya Email **rezabaikrez@gmail.com**
 
 - ⚡ Fakta menarik **🥇 🥈 🥉**
