@@ -72,6 +72,14 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
   <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RyhnXD"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernameJohannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+</p>
+
 ## ```Status```
 
 <p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=davekgw&show_icons=true&theme=radical"></a></p>
