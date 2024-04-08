@@ -65,6 +65,10 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 <a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rezdv4" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
+</p>
+
 ## ```Status```
 
 <p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=davekgw&show_icons=true&theme=radical"></a></p>
