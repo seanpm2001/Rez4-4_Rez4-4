@@ -69,11 +69,7 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
   <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
 </p>
 
-<p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Rez4-4&theme=r34' width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="400px"/>
-  <img width="400px" src="./github-metrics.svg" />
-</p>
+<img align='right' src='https://counter.seku.su/c302?' width='400px'>
 
 ## ```Status```
 
