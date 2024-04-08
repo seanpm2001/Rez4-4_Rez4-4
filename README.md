@@ -69,14 +69,10 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
   <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
 </p>
 
-<img align='right' src='https://counter.seku.su/c302?' width='400px'>
-
 ## ```Status```
 
 <p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=davekgw&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/davekgw"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-4&theme=radical&layout=compact"></a></p> 
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=f5a9b8&height=300&section=header&text=I%20mainly%20use%20Golang,%20C,%20Asm,%20Kotlin%20and%20Python.&fontSize=36&fontColor=ffffff)
 
 </details>
 
