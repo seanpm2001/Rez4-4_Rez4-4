@@ -72,6 +72,10 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
   <a href="https://github.com/Rez4-4"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
 </p>
 
+  <p align="center">
+  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
