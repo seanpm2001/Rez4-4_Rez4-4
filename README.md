@@ -77,7 +77,7 @@ Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rez4-4&theme=juicyfresh" /><a>
 </p>
 
 ## ```Status```
