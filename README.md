@@ -54,11 +54,9 @@
 <p align="center">
   <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
-<!-- blog start -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rez4-4&theme=react-dark" alt="Rez4-4" /></p>
-
-[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&hide=contribs,prs)](https://github.com/Rez4-4)
-<img align="right" alt="My Profile" src="https://telegra.ph/file/969f18f2cfd092ceac8f1.jpg" width="190" />
+<p align="center">
+  <a href="https://github.com/Reza4-4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza4 -4&theme=tokyonight&layout=compact" /></a>
+</p>
 
 Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 
