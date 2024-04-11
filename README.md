@@ -57,7 +57,6 @@
 <p align="center">
   <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-4&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-Mari kita membuat kode sesuatu yang luar biasa bersama-sama! 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
