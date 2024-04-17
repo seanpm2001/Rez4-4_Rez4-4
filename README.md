@@ -58,7 +58,7 @@
   <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-4&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
-  <a href="https://github.com/hiroosy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiroosy&theme=tokyonight"/>
+  <a href="https://github.com/Rez4-4"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rez4-4&theme=tokyonight"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
