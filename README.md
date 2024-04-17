@@ -58,6 +58,8 @@
   <a href="https://github.com/Rez4-4"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rez4-4&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
+  <a href="https://github.com/hiroosy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiroosy&theme=tokyonight"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/instagram.com.reza.205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com.reza.205" height="30" width="40" /></a>
