@@ -81,8 +81,7 @@
 </p>
 
 ## ```Status```
-
-  <a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&theme=tokyonight"/>
+   <a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api?username=Rez4-4&show_icons=true&theme=tokyonight"/>
 
 <p align="center"><a href="https://github.com/Rez4-4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez4-4&theme=radical&layout=compact"></a></p> 
 
